@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"!$Hibbert","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"149_20240406164717","traits":[],"initialLevel":1,"maxLevel":10,"name":"Hibbert.ь","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$deriate","classId":1,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"149_20240406164717","traits":[],"initialLevel":1,"maxLevel":10,"name":"deriate.v","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":1,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"149_20240406164717","traits":[],"initialLevel":1,"maxLevel":10,"name":"rendem.k","nickname":"","note":"","profile":""}
+]
